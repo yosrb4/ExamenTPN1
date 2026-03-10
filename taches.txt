@@ -1,4 +1,6 @@
 3-evaluation des performances des modeles a l'aide de metrique appropriees (accuracy,precesion,rappel,F1-store , etc ).
 1-collecte,nettoyage et preparation des donnees pour l'entrainement des modeles. 
 2-conception et implementation de modeles de machine learning ou deep learning .
+4-optimisation des hyperparametres et ameliorations des performances du modeles. 
+5-deploiment du modele et integration dans une applications ou une api 
 
